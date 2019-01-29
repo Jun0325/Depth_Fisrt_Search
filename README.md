@@ -1,1 +1,2 @@
-# Depth_Fisrt_Search
+# Depth and Breadth_First_Search
+# Binary_search and AVL
