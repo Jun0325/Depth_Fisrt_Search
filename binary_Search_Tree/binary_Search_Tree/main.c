@@ -12,7 +12,7 @@ Node* insertNode(Node* root, int data) {
 		root = (Node*)malloc(sizeof(Node));
 		root->leftChild = root->rightChild = NULL;
 		root->data = data;
-		return data;
+		return root;
 	}
 	else {
 		if (root->data > data) {
